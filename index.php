@@ -43,6 +43,7 @@
                 <i class="fas fa-bell"></i>
             </div>
         </header>
+        <div class="container-content">
         <div class="content-1">
             <div class="one"></div>
             <div class="two"></div>
@@ -50,8 +51,10 @@
             <div class="one"></div>
         </div><!-- content 1 -->
         <div class="content-2">
-            
         </div><!-- content 2 -->
+        </div><!-- container content -->
+        
+        
     </div>
 </body>
 </html>
